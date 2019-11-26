@@ -1,4 +1,4 @@
-This project was conceived as a PHP training and has been implemented using only PHP and MySQL.
+This project was conceived as a PHP training exercise and has been implemented using only PHP and MySQL.
 Therefore, no front-end was designed.
 
 To run the application:
