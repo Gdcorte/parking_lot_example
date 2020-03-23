@@ -9,7 +9,7 @@ class Database
 {
     const DB_HOSTNAME = "localhost";
     const DB_USERNAME = "Gustavo";
-    const DB_PASSWORD = "@Diniz+163";
+    const DB_PASSWORD = "********";
     const DB_DATABASE = 'parking_lot';
 
     private $conn;
